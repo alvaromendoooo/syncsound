@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "id": "helix-1",
+      "title": "SoundHelix Song 1",
+      "artist": "T. Schürger",
+      "genre": "electronic",
+      "source": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "id": "helix-2",
+      "title": "SoundHelix Song 2",
+      "artist": "T. Schürger",
+      "genre": "electronic",
+      "source": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "id": "helix-3",
+      "title": "SoundHelix Song 3",
+      "artist": "T. Schürger",
+      "genre": "electronic",
+      "source": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "id": "helix-8",
+      "title": "SoundHelix Song 8",
+      "artist": "T. Schürger",
+      "genre": "chill",
+      "source": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+    },
+    {
+      "id": "helix-10",
+      "title": "SoundHelix Song 10",
+      "artist": "T. Schürger",
+      "genre": "chill",
+      "source": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+    }
+  ]
+}
